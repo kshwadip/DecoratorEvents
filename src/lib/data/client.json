@@ -329,22 +329,94 @@
         ]
     }
 	],
-	"gallery": {
-        "groups": [
-            {
-                "name": "Flowers",
-                "images": [
-                    
-                ]
-            },
-            {
-                "name": "Decoration",
-                "images": [
-                    
-                ]
-            }
+  "gallery": {
+    "groups": [
+      {
+        "name": "Flowers",
+        "images": [
+          {
+            "src": "/images/flowers/flowerDecorationForBirthday.jpg",
+            "alt": "Flower Decoration For Birthday"
+          },
+          {
+            "src": "/images/flowers/flowerDecorationForNameCeremony.jpg",
+            "alt": "Flower Decoration for Name Ceremony"
+          },
+          {
+            "src": "/images/flowers/flowerDecorationForAnniversary.jpg",
+            "alt": "Flower Decoration for Anniversary"
+          },
+          {
+            "src": "/images/flowers/flowerDecorationForEvent.jpg",
+            "alt": "Flower Decoration For Event"
+          },
+          {
+            "src": "/images/flowers/flowerDecorationForWeddingCar.jpg",
+            "alt": "Flower Decoration for Wedding Car"
+          },
+          {
+            "src": "/images/flowers/flowerDecorationForOffice.jpg",
+            "alt": "Flower Decoration for Office"
+          },
+          {
+            "src": "/images/flowers/flowerDecorationForHotel.jpg",
+            "alt": "Flower Decoration for Hotel"
+          },
+          {
+            "src": "/images/flowers/flowerDecorationForBasket.jpg",
+            "alt": "Flower Decoration for Basket"
+          },
+          {
+            "src": "/images/flowers/flowerDecorationForHome.jpg",
+            "alt": "Flower Decoration for Home"
+          },
+          {
+            "src": "/images/flowers/flowerDecorationForRestaurant.jpg",
+            "alt": "Flower Decoration for Restaurant"
+          },
+          {
+            "src": "/images/flowers/flowerDecorationForBabyShower.jpg",
+            "alt": "Flower Decoration for Baby Shower"
+          }
         ]
-    },
+      },
+      {
+        "name": "Decoration",
+        "images": [
+          {
+            "src": "/images/decoration/decorationForWedding.jpg",
+            "alt": "Decoration for Wedding"
+          },
+          {
+            "src": "/images/decoration/decorationForBirthday.jpg",
+            "alt": "Decoration for Birthday"
+          },
+          {
+            "src": "/images/decoration/decorationForAnniversary.jpg",
+            "alt": "Decoration for Anniversary"
+          },
+          {
+            "src": "/images/decoration/decorationForEvents.jpg",
+            "alt": "Decoration for Events"
+          },
+          {
+            "src": "/images/decoration/decorationForOutdoor.jpg",
+            "alt": "Decoration for Outdoor"
+          },
+          {
+            "src": "/images/decoration/decorationForParty.jpg",
+            "alt": "Decoration for Party"
+          },
+          {
+            "src": "/images/decoration/decorationForFestivals.jpg",
+            "alt": "Decoration for Festivals"
+          },
+          {
+            "src": "/images/decoration/decorationForReligiousFunctions.jpg",
+            "alt": "Decoration for Religious Functions"
+          }
+        ]
+      },
 	"testimonials": [
 		{ "name": "Aniket Patil", "text": "Fabulous designing and decorative work — I didn't think this level of decoration was possible in Solapur.", "rating": 5 },
 		{ "name": "Advocate Kiran V. Valsangkar", "text": "Prompt service and perfect time management.", "rating": 5 },
