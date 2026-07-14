@@ -1,0 +1,41 @@
+/* THEME: Editorial
+   Deep bottle green + brushed brass, medium-contrast serif headlines.
+   A magazine-feature feel — trustworthy, a little indulgent, unhurried.
+   Good for: restaurants, hotels, weddings, home decor, estate agents,
+   interior/pool contractors, beauty spas. */
+
+[data-theme='editorial'] {
+	--color-bg: #faf6f0;
+	--color-surface: #ffffff;
+	--color-text: #221d17;
+	--color-muted: #6b6259;
+	--color-primary: #1f3b2c;
+	--color-primary-text: #ffffff;
+	--color-accent: #c9a227;
+	--color-accent-text: #241d0d;
+	--color-border: #e6ddc9;
+	--shadow-color: 34, 29, 23;
+
+	--font-display: 'Spectral', Georgia, serif;
+	--font-body: 'Manrope', system-ui, sans-serif;
+
+	--radius: 14px;
+	--radius-sm: 8px;
+	--border-width: 1px;
+	--heading-transform: none;
+	--heading-tracking: -0.01em;
+	--heading-weight: 600;
+}
+
+html[data-mode='dark'] [data-theme='editorial'] {
+	--color-bg: #16140f;
+	--color-surface: #201c15;
+	--color-text: #f3eee4;
+	--color-muted: #a79c8c;
+	--color-primary: #d4af6a;
+	--color-primary-text: #16140f;
+	--color-accent: #7c9082;
+	--color-accent-text: #101410;
+	--color-border: #342e21;
+	--shadow-color: 0, 0, 0;
+}

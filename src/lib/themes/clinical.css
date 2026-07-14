@@ -1,0 +1,40 @@
+/* THEME: Clinical
+   Deep teal trust-color paired with a warm coral action-color,
+   geometric display type. Clean and precise without feeling cold.
+   Good for: hospitals, dentists, education, PG/hostels, rent & hire. */
+
+[data-theme='clinical'] {
+	--color-bg: #f5f8f8;
+	--color-surface: #ffffff;
+	--color-text: #172026;
+	--color-muted: #5b6b73;
+	--color-primary: #0f6e63;
+	--color-primary-text: #ffffff;
+	--color-accent: #ff6b4a;
+	--color-accent-text: #1a0a05;
+	--color-border: #dfe7e6;
+	--shadow-color: 15, 30, 30;
+
+	--font-display: 'Space Grotesk', system-ui, sans-serif;
+	--font-body: 'Plus Jakarta Sans', system-ui, sans-serif;
+
+	--radius: 16px;
+	--radius-sm: 10px;
+	--border-width: 1px;
+	--heading-transform: none;
+	--heading-tracking: -0.01em;
+	--heading-weight: 600;
+}
+
+html[data-mode='dark'] [data-theme='clinical'] {
+	--color-bg: #0d1417;
+	--color-surface: #131c20;
+	--color-text: #e8f1ef;
+	--color-muted: #8fa3a0;
+	--color-primary: #35c9b0;
+	--color-primary-text: #06120f;
+	--color-accent: #ff7a5c;
+	--color-accent-text: #1a0a05;
+	--color-border: #1f2c30;
+	--shadow-color: 0, 0, 0;
+}

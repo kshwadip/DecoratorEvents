@@ -1,0 +1,108 @@
+{
+	"business": {
+		"name": "Shree Ganesh Furniture Works",
+		"tagline": "Custom furniture, built to last generations",
+		"theme": "clinical",
+		"phone": "+919876543210",
+		"phoneDisplay": "98765 43210",
+		"whatsapp": "919876543210",
+		"email": "shreeganeshfurniture@example.com",
+		"address": "Shop No. 12, Market Road, Nashik, Maharashtra 422001",
+		"mapEmbedUrl": "https://www.google.com/maps?q=Nashik,Maharashtra&output=embed",
+		"hours": [
+			{
+				"days": "Mon - Sat",
+				"time": "10:00 AM - 8:00 PM"
+			},
+			{
+				"days": "Sunday",
+				"time": "11:00 AM - 3:00 PM"
+			}
+		]
+	},
+	"hero": {
+		"headline": "Furniture that fits your home, not the other way around",
+		"subheadline": "35 years of hand-built cabinets, beds and dining sets, made to your exact measurements.",
+		"image": "/images/hero.jpg",
+		"ticker": [
+			"FREE SITE VISIT",
+			"35 YEARS IN BUSINESS",
+			"CUSTOM MEASUREMENTS",
+			"CALL NOW"
+		]
+	},
+	"about": {
+		"heading": "Three generations of woodwork",
+		"text": "Started in 1989 by Ramesh Patil, Shree Ganesh Furniture Works has grown from a one-room workshop to Nashik's trusted name for custom furniture. Every piece is measured, built and finished on-site in our own workshop — no outsourcing, no shortcuts.",
+		"stats": [
+			{
+				"value": "35+",
+				"label": "Years in business"
+			},
+			{
+				"value": "2,000+",
+				"label": "Homes furnished"
+			},
+			{
+				"value": "100%",
+				"label": "In-house workshop"
+			}
+		]
+	},
+	"services": [
+		{
+			"slug": "custom-wardrobes",
+			"title": "Custom Wardrobes",
+			"description": "Built-in and free-standing wardrobes measured for your exact room dimensions.",
+			"longDescription": "Every wardrobe is measured on-site, then built and finished in our own workshop. Choose sliding or hinged doors, laminate or veneer finish, and internal layouts for hanging, shelving, or drawers."
+		}
+	],
+	"gallery": {
+		"groups": [
+			{
+				"name": "Interior",
+				"images": [
+					{
+						"src": "/images/gallery-1.jpg",
+						"alt": "Living room cabinetry"
+					},
+					{
+						"src": "/images/gallery-2.jpg",
+						"alt": "Kitchen cabinets"
+					}
+				]
+			},
+			{
+				"name": "Exterior",
+				"images": [
+					{
+						"src": "/images/gallery-1.jpg",
+						"alt": "Workshop storefront"
+					}
+				]
+			}
+		]
+	},
+	"testimonials": [
+		{
+			"name": "Anita Deshmukh",
+			"text": "Ordered a full wardrobe and dining set. The finishing quality is far better than the showroom furniture we compared it to, and it cost less.",
+			"rating": 5
+		},
+		{
+			"name": "Suresh Kulkarni",
+			"text": "They measured our kitchen twice to be sure before cutting anything. Delivered exactly on the promised date.",
+			"rating": 5
+		},
+		{
+			"name": "Priya Joshi",
+			"text": "Restored my grandmother's almirah — looks brand new but they kept the original carving intact.",
+			"rating": 4
+		}
+	],
+	"seo": {
+		"title": "Shree Ganesh Furniture Works — Custom Furniture in Nashik",
+		"description": "Custom wardrobes, dining sets, modular kitchens and furniture restoration in Nashik. 35 years of in-house craftsmanship. Free site visit and quote.",
+		"businessType": "FurnitureStore"
+	}
+}
