@@ -21,7 +21,7 @@
 	},
 	"about": {
 		"heading": "Nearly four decades of celebrations",
-		"text": "Since 1988, S Prakash Decorator and Events has brought weddings, birthdays, engagements, and ceremonies to life across Solapur. From flower decoration to full event planning — including even sports and water sports events — the team is known for prompt service, thoughtful design, and reliable time management.",
+		"text": "Since 1988, S Prakash Decorator and Events has brought weddings, birthdays, engagements, and ceremonies to life across Solapur. From flower decoration to full event planning — including customized themes, elegant arrangements, and complete event management.",
 		"stats": [
 			{ "value": "38+", "label": "Years in business" },
 			{ "value": "4.5★", "label": "101 client ratings" },
@@ -33,7 +33,7 @@
 			"slug": "flower-decoration",
 			"title": "Flower Decoration",
 			"description": "Fresh flower decoration for birthdays, naming ceremonies, and anniversaries.",
-			"longDescription": "Make birthdays extra special with our vibrant and cheerful flower decorations. We offer a variety of designs that can be customized to suit the birthday person's tastes, from fun and colorful arrangements for children to elegant floral setups for adults. Our decorations include flower garlands, table decor, and personalized floral messages that bring life and joy to any birthday celebration.",
+			"longDescription": "Make birthdays extra special with our vibrant and cheerful flower decorations. We offer a variety of designs that can be customized to suit the birthday person's tastes, from whimsical themes to elegant arrangements.",
 			"list": [
 				"Theme : Fun, Classic",
 				"Design Options : Variety of flower types, Different colors, Sizes",
@@ -46,378 +46,379 @@
 			]
 		},
 		{
-        "slug": "flower-decoration-for-name-ceremony",
-        "title": "Flower Decoration for Name Ceremony",
-        "description": "Flower decoration services for name ceremonies provide a beautiful and personalized touch to celebrate this significant milestone in a child's life.",
-        "longDescription": "Flower decoration services for name ceremonies provide a beautiful and personalized touch to celebrate this significant milestone in a child's life. Professional florists work closely with clients to understand their vision, creating stunning arrangements that match the theme and ambiance of the event. From elegant floral arches to whimsical centerpieces, these decorations enhance the festive atmosphere, making the occasion memorable for families and guests alike.",
-        "list": [
-            "Theme : Personalized, Elegant",
-            "Design Options : Variety of flower types, Different colors, Sizes",
-            "Duration : Typically 2-4 hours",
-            "Material Used : High-quality materials used for longevity and visual appeal",
-            "Price Range : ₹10,000 - ₹15,000"
-        ],
-        "images": [
-            "/images/flowers/flowerDecorationForNameCeremony.jpg"
-        ]
-    },
-	{
-        "slug": "flower-decoration-for-anniversary",
-        "title": "Flower Decoration for Anniversary",
-        "description": "Flower Decoration for Anniversary involves designing and arranging floral decorations to celebrate an anniversary.",
-        "longDescription": "Flower Decoration for Anniversary involves designing and arranging floral decorations to celebrate an anniversary. This includes creating elegant and personalized floral arrangements such as bouquets, centerpieces, and floral garlands that match the couple's preferences and the event's theme. Flower decorations add a touch of beauty and romance to anniversary celebrations, enhancing the overall ambiance and creating memorable moments.",
-        "list": [
-            "Theme : Romantic, Classic, Modern",
-            "Design Options : Variety of flower types, Different colors, Sizes",
-            "Duration : Typically 2-4 hours",
-            "Material Used : High-quality materials used for longevity and visual appeal",
-            "Price Range : ₹10,000 - ₹15,000"
-        ],
-        "images": [
-            "/images/flowers/flowerDecorationForAnniversary.jpg"
-        ]
-    },
-	{
-        "slug": "flower-decoration-for-event",
-        "title": "Flower Decoration For Event",
-        "description": "Our flower decorators provide stunning floral designs for any event, be it corporate gatherings, parties, or cultural functions.",
-        "longDescription": "Our flower decorators provide stunning floral designs for any event, be it corporate gatherings, parties, or cultural functions. We offer a wide range of arrangements, from formal to contemporary, ensuring the decor enhances the ambiance of your event. Our services include entrance decor, stage arrangements, and table centerpieces, all crafted using fresh, high-quality flowers. Let us help you create a visually appealing and inviting environment for your guests.",
-        "list": [
-            "Theme : Wide range of floral themes available, including traditional, contemporary, rustic, and seasonal designs.",
-            "Design Options : Variety of flower, Different colors, Sizes",
-            "Duration : Typically 2-4 hours",
-            "Material Used : High-quality materials used for longevity and visual appeal",
-            "Price Range : ₹3,000 onwards"
-        ],
-        "images": [
-            "/images/flowers/flowerDecorationForEvent.jpg"
-        ]
-    },
-	{
-        "slug": "flower-decoration-for-wedding-car",
-        "title": "Flower Decoration for Wedding Car",
-        "description": "Flower Decorators for Wedding Cars provide stunning floral decorations for the bride and groom's vehicle.",
-        "longDescription": "Flower Decorators for Wedding Cars provide stunning floral decorations for the bride and groom's vehicle. These decorators create elegant and personalized designs using fresh flowers, ribbons, and other decorative elements to adorn the wedding car. The service includes a variety of styles, from simple and classic to elaborate and ornate, ensuring that the wedding car complements the overall theme of the wedding.",
-        "list": [
-            "Design Options : Variety of flower types, different colors, sizes",
-            "Duration : Typically 2-4 hours",
-            "Service Use : Wedding Car",
-            "Price Range : ₹2,500 onwards"
-        ],
-        "images": [
-            "/images/flowers/flowerDecorationForWeddingCar.jpg"
-        ]
-    },
-	{
-        "slug": "flower-decoration-for-office",
-        "title": "Flower Decoration for Office",
-        "description": "Flower Decoration for Office enhances workplace ambiance using elegant floral arrangements suited to corporate aesthetics.",
-        "longDescription": "Flower Decoration for Office enhances workplace ambiance using elegant floral arrangements suited to corporate aesthetics. Weekly or event-based services include reception bouquets, meeting room centerpieces, and celebration decor. Fresh or artificial flowers are arranged professionally to match brand colors or office themes. This service boosts employee morale, impresses clients, and adds a refreshing, natural vibe to professional environments.",
-        "list": [
-            "Design Options : Variety of flower types, different colors, sizes",
-            "Duration : Typically 2-4 hours",
-            "Service Use : Office",
-            "Price Range : ₹3,000 onwards"
-        ],
-        "images": [
-            "/images/flowers/flowerDecorationForOffice.jpg"
-        ]
-    },
-	{
-        "slug": "flower-decoration-for-hotel",
-        "title": "Flower Decoration for Hotel",
-        "description": "Flower Decorators for Hotels provide luxury floral arrangements for hotel lobbies, restaurants, and guest rooms.",
-        "longDescription": "Flower Decorators for Hotels provide luxury floral arrangements for hotel lobbies, restaurants, and guest rooms. These decorators create sophisticated and welcoming floral displays that enhance the ambiance of the hotel, making it more inviting for guests. They offer services ranging from daily arrangements to special event decorations, ensuring that the hotel's aesthetic is always fresh, stylish, and aligned with its brand image.",
-        "list": [
-            "Design Options : Variety of flower types, different colors, sizes",
-            "Duration : Typically 2-4 hours",
-            "Service Use : Hotel",
-            "Price Range : ₹5,000 onwards"
-        ],
-        "images": [
-            "/images/flowers/flowerDecorationForHotel.jpg"
-        ]
-    },
-	{
-        "slug": "flower-decoration-for-basket",
-        "title": "Flower Decoration for Basket",
-        "description": "Flower Decorators for Basket specialize in crafting beautiful and artistic flower baskets for a variety of occasions.",
-        "longDescription": "Flower Decorators for Basket specialize in crafting beautiful and artistic flower baskets for a variety of occasions. Whether it's for a gift, home decor, or special event, these decorators create stunning arrangements that are both elegant and thoughtful. The baskets can be customized with different flowers, foliage, and additional decorative elements like ribbons or cards, making them a perfect choice for any celebration or gesture of appreciation.",
-        "list": [
-            "Design Options : Variety of flower types, different colors, sizes",
-            "Duration : Typically 2-4 hours",
-            "Service Use : Basket",
-            "Price Range : ₹500 onwards"
-        ],
-        "images": [
-            "/images/flowers/flowerDecorationForBasket.jpg"
-        ]
-    },
-	{
-        "slug": "flower-decoration-for-home",
-        "title": "Flower Decoration for Home",
-        "description": "Flower Decoration for Home service brings the elegance of fresh or artificial floral decor to your living space.",
-        "longDescription": "Flower Decoration for Home service brings the elegance of fresh or artificial floral decor to your living space. Ideal for birthdays, anniversaries, pujas, or intimate gatherings, the service includes arrangements for entrances, staircases, balconies, and living areas. Options include seasonal flowers, exotic varieties, and reusable decor items. Delivered and optionally installed by professionals, this service adds warmth and beauty to your personal environment.",
-        "list": [
-            "Design Options : Variety of flower types, different colors, sizes",
-            "Duration : Typically 2-4 hours",
-            "Service Use : Home",
-            "Price Range : ₹3,000 onwards"
-        ],
-        "images": [
-            "/images/flowers/flowerDecorationForHome.jpg"
-        ]
-    },
-	{
-        "slug": "flower-decoration-for-restaurant",
-        "title": "Flower Decoration for Restaurant",
-        "description": "Flower Decorators for Restaurants specialize in creating floral arrangements that enhance the dining experience.",
-        "longDescription": "Flower Decorators for Restaurants specialize in creating floral arrangements that enhance the dining experience. They provide table centerpieces, entrance decor, and seasonal floral themes that align with the restaurant's style and cuisine. These decorators work closely with restaurant owners to design flowers that complement the interior decor and create a pleasant atmosphere for diners, whether for everyday dining or special occasions.",
-        "list": [
-            "Design Options : Variety of flower types, different colors, sizes",
-            "Duration : Typically 2-4 hours",
-            "Service Use : Restaurant",
-            "Price Range : ₹5,000 onwards"
-        ],
-        "images": [
-            "/images/flowers/flowerDecorationForRestaurant.jpg"
-        ]
-    },
-	{
-        "slug": "flower-decoration-for-baby-shower",
-        "title": "Flower Decoration for Baby Shower",
-        "description": "Welcome the new arrival with our charming and thoughtful flower decorations for baby showers.",
-        "longDescription": "Welcome the new arrival with our charming and thoughtful flower decorations for baby showers. We create soft and soothing arrangements using pastel-colored flowers, perfect for celebrating the joy of a baby's impending birth. Our services include table centerpieces, entrance decor, and themed floral arrangements that add warmth and happiness to the occasion. Let us help you create a beautiful and memorable environment for this special day.",
-        "list": [
-            "Theme : Pastel, Gender Reveal, Fun",
-            "Design Options : Variety of flower types, Different colors, Sizes",
-            "Duration : Typically 2-4 hours",
-            "Material Used : High-quality materials used for longevity and visual appeal",
-            "Price Range : ₹7,000 - ₹12,000"
-        ],
-        "images": [
-            "/images/flowers/flowerDecorationForBabyShower.jpg"
-        ]
-    },
-	{
-        "slug": "decoration-for-wedding",
-        "title": "Decoration for Wedding",
-        "description": "Ultimately, wedding decorations create lasting memories for the couple and their guests.",
-        "longDescription": "Ultimately, wedding decorations create lasting memories for the couple and their guests. A well-decorated venue not only enhances the visual appeal but also evokes emotions and sets the mood for celebration. Couples often seek inspiration from various sources, including social media, magazines, and real weddings, to help shape their decoration choices. Engaging with professional decorators can ensure that the final result is both stunning and reflective of the couple's love story.",
-        "list": [
-            "Theme : Customized themes and colours available",
-            "Design Options : Fresh and artificial options",
-            "Price Range : ₹20,000 - ₹25,000",
-            "Material : High-quality materials used for longevity and visual appeal",
-            "Rental Duration : Typically 2-4 hours"
-        ],
-        "images": [
-            "/images/decoration/decorationForWedding.jpg"
-        ]
-    },
-	{
-        "slug": "decoration-for-birthday",
-        "title": "Decoration for Birthday",
-        "description": "Birthday decoration services specialize in creating themed and personalized setups for birthday celebrations.",
-        "longDescription": "Birthday decoration services specialize in creating themed and personalized setups for birthday celebrations. These services include designing and arranging decorations like balloons, banners, table settings, and centerpieces tailored to the clients preferences. Professional decorators can transform venues, whether at home or in rented spaces, into festive atmospheres that enhance the celebration. This service ensures a memorable experience for the birthday person and guests alike.",
-        "list": [
-            "Theme : Customized themes and colours available",
-            "Design Options : Fresh and artificial options",
-            "Price Range : ₹10,000 - ₹15,000",
-            "Material : High-quality materials used for longevity and visual appeal",
-            "Rental Duration : Typically 2-4 hours"
-        ],
-        "images": [
-            "/images/decoration/decorationForBirthday.jpg"
-        ]
-    },
-	{
-        "slug": "decoration-for-anniversary",
-        "title": "Decoration for Anniversary",
-        "description": "Decoration for Anniversary services transform any space into a romantic and festive venue, ideal for celebrating special milestones.",
-        "longDescription": "Decoration for Anniversary services transform any space into a romantic and festive venue, ideal for celebrating special milestones. From elegant floral arrangements and themed backdrops to candlelight setups and personalized decor elements, professional decorators ensure that the ambiance reflects the spirit of the occasion. Their creativity and attention to detail make the celebration more memorable, creating a beautiful setting for the event.",
-        "list": [
-            "Theme : Customized themes and colours available",
-            "Design Options : Fresh and artificial options",
-            "Price Range : ₹15,000 - ₹20,000",
-            "Material : High-quality materials used for longevity and visual appeal",
-            "Rental Duration : Typically 2-4 hours"
-        ],
-        "images": [
-            "/images/decoration/decorationForAnniversary.jpg"
-        ]
-    },
-	{
-        "slug": "decoration-for-events",
-        "title": "Decoration for Events",
-        "description": "Decoration for events encompasses a wide range of services designed to enhance the visual appeal and ambiance of various types of gatherings, from corporate events to private functions.",
-        "longDescription": "Decoration for events encompasses a wide range of services designed to enhance the visual appeal and ambiance of various types of gatherings, from corporate events to private functions. This service involves planning and implementing decorative elements such as floral arrangements, lighting, backdrops, and thematic decorations. Professional decorators consider the event's purpose, location, and audience to create a cohesive and engaging environment. The goal is to elevate the event's atmosphere, making it memorable and impactful for attendees while aligning with the event's objectives and branding.",
-        "list": [
-            "Theme : Customized themes and colours available",
-            "Design Options : Fresh and artificial options",
-            "Price Range : ₹15,000 - ₹20,000",
-            "Material : High-quality materials used for longevity and visual appeal",
-            "Rental Duration : Typically 2-4 hours"
-        ],
-        "images": [
-            "/images/decoration/decorationForEvents.jpg"
-        ]
-    },
-	{
-        "slug": "decoration-for-outdoor",
-        "title": "Decoration for Outdoor",
-        "description": "Elevate your outdoor gatherings with specialized decoration services.",
-        "longDescription": "Elevate your outdoor gatherings with specialized decoration services. From intimate backyard gatherings to large events, we bring themes to life with elegant lighting, floral arrangements, seating, and personalized decor. team customizes each setup to transform any outdoor space into a beautiful, inviting environment, enhancing the atmosphere of your wedding, party, or corporate event for a truly memorable experience.",
-        "list": [
-            "Theme : Customized themes and colours available",
-            "Design Options : Fresh and artificial options",
-            "Price Range : ₹20,000 - ₹25,000",
-            "Type : Outdoor",
-            "Material : High-quality materials used for longevity and visual appeal",
-            "Rental Duration : Typically 2-4 hours"
-        ],
-        "images": [
-            "/images/decoration/decorationForOutdoor.jpg"
-        ]
-    },
-	{
-        "slug": "decoration-for-party",
-        "title": "Decoration for Party",
-        "description": "Many decoration services provide full-service packages that include setup and breakdown of all decorative elements.",
-        "longDescription": "Many decoration services provide full-service packages that include setup and breakdown of all decorative elements. This convenience allows hosts to relax and enjoy the occasion without worrying about logistics. Experienced decorators can anticipate potential issues and address them proactively, ensuring a seamless experience for all attendees. Their expertise often includes knowledge of the latest trends and innovations in party decoration, which can add a modern touch to traditional themes.",
-        "list": [
-            "Theme : Customized themes and colours available",
-            "Design Options : Fresh and artificial options",
-            "Price Range : ₹15,000 - ₹20,000",
-            "Material : High-quality materials used for longevity and visual appeal",
-            "Rental Duration : Typically 2-4 hours"
-        ],
-        "images": [
-            "/images/decoration/decorationForParty.jpg"
-        ]
-    },
-	{
-        "slug": "decoration-for-festivals",
-        "title": "Decoration for Festivals",
-        "description": "Embrace the festive spirit with our Decoration for Festivals service.",
-        "longDescription": "Embrace the festive spirit with our Decoration for Festivals service. We offer creative and vibrant decoration solutions tailored to your specific festival or celebration. Our team can design captivating displays using lights, flowers, and thematic decor to create an enchanting atmosphere. Whether it's Diwali, Christmas, or any cultural celebration, we bring your vision to life, ensuring a memorable experience for all.",
-        "list": [
-            "Theme : Customized themes and colours available",
-            "Design Options : Fresh and artificial options",
-            "Price Range : ₹10,000 - ₹15,000",
-            "Material : High-quality materials used for longevity and visual appeal",
-            "Rental Duration : Typically 2-4 hours"
-        ],
-        "images": [
-            "/images/decoration/decorationForFestivals.jpg"
-        ]
-    },
-	{
-        "slug": "decoration-for-religious-functions",
-        "title": "Decoration for Religious Functions",
-        "description": "Decoration for religious functions involves creating a respectful and appropriate environment for ceremonies and worship.",
-        "longDescription": "Decoration for religious functions involves creating a respectful and appropriate environment for ceremonies and worship. This service includes designing and setting up decorations that honor the religious significance of the occasion, such as altar arrangements, floral displays, and symbolic elements. The decorations are chosen to reflect the traditions and values of the religious event, ensuring that they enhance the sacred atmosphere without overshadowing the ceremony. Professional decorators work closely with religious leaders and clients to ensure that all decorations are suitable and aligned with the ceremony's requirements.",
-        "list": [
-            "Theme : Customized themes and colours available",
-            "Design Options : Fresh and artificial options",
-            "Price Range : ₹20,000 - ₹25,000",
-            "Material : High-quality materials used for longevity and visual appeal",
-            "Rental Duration : Typically 2-4 hours"
-        ],
-        "images": [
-            "/images/decoration/decorationForReligiousFunctions.jpg"
-        ]
-    }
+			"slug": "flower-decoration-for-name-ceremony",
+			"title": "Flower Decoration for Name Ceremony",
+			"description": "Flower decoration services for name ceremonies provide a beautiful and personalized touch to celebrate this significant milestone in a child's life.",
+			"longDescription": "Flower decoration services for name ceremonies provide a beautiful and personalized touch to celebrate this significant milestone in a child's life. Professional florists craft arrangements that complement the celebratory atmosphere.",
+			"list": [
+				"Theme : Personalized, Elegant",
+				"Design Options : Variety of flower types, Different colors, Sizes",
+				"Duration : Typically 2-4 hours",
+				"Material Used : High-quality materials used for longevity and visual appeal",
+				"Price Range : ₹10,000 - ₹15,000"
+			],
+			"images": [
+				"/images/flowers/flowerDecorationForNameCeremony.jpg"
+			]
+		},
+		{
+			"slug": "flower-decoration-for-anniversary",
+			"title": "Flower Decoration for Anniversary",
+			"description": "Flower Decoration for Anniversary involves designing and arranging floral decorations to celebrate an anniversary.",
+			"longDescription": "Flower Decoration for Anniversary involves designing and arranging floral decorations to celebrate an anniversary. This includes creating elegant and personalized floral arrangements that capture the essence of love and commitment.",
+			"list": [
+				"Theme : Romantic, Classic, Modern",
+				"Design Options : Variety of flower types, Different colors, Sizes",
+				"Duration : Typically 2-4 hours",
+				"Material Used : High-quality materials used for longevity and visual appeal",
+				"Price Range : ₹10,000 - ₹15,000"
+			],
+			"images": [
+				"/images/flowers/flowerDecorationForAnniversary.jpg"
+			]
+		},
+		{
+			"slug": "flower-decoration-for-event",
+			"title": "Flower Decoration For Event",
+			"description": "Our flower decorators provide stunning floral designs for any event, be it corporate gatherings, parties, or cultural functions.",
+			"longDescription": "Our flower decorators provide stunning floral designs for any event, be it corporate gatherings, parties, or cultural functions. We offer a wide range of arrangements, from minimalist designs to elaborate floral installations.",
+			"list": [
+				"Theme : Wide range of floral themes available, including traditional, contemporary, rustic, and seasonal designs.",
+				"Design Options : Variety of flower, Different colors, Sizes",
+				"Duration : Typically 2-4 hours",
+				"Material Used : High-quality materials used for longevity and visual appeal",
+				"Price Range : ₹3,000 onwards"
+			],
+			"images": [
+				"/images/flowers/flowerDecorationForEvent.jpg"
+			]
+		},
+		{
+			"slug": "flower-decoration-for-wedding-car",
+			"title": "Flower Decoration for Wedding Car",
+			"description": "Flower Decorators for Wedding Cars provide stunning floral decorations for the bride and groom's vehicle.",
+			"longDescription": "Flower Decorators for Wedding Cars provide stunning floral decorations for the bride and groom's vehicle. These decorators create elegant and personalized designs using fresh or artificial flowers that complement the wedding aesthetic.",
+			"list": [
+				"Design Options : Variety of flower types, different colors, sizes",
+				"Duration : Typically 2-4 hours",
+				"Service Use : Wedding Car",
+				"Price Range : ₹2,500 onwards"
+			],
+			"images": [
+				"/images/flowers/flowerDecorationForWeddingCar.jpg"
+			]
+		},
+		{
+			"slug": "flower-decoration-for-office",
+			"title": "Flower Decoration for Office",
+			"description": "Flower Decoration for Office enhances workplace ambiance using elegant floral arrangements suited to corporate aesthetics.",
+			"longDescription": "Flower Decoration for Office enhances workplace ambiance using elegant floral arrangements suited to corporate aesthetics. Weekly or event-based services include reception area arrangements and meeting room displays.",
+			"list": [
+				"Design Options : Variety of flower types, different colors, sizes",
+				"Duration : Typically 2-4 hours",
+				"Service Use : Office",
+				"Price Range : ₹3,000 onwards"
+			],
+			"images": [
+				"/images/flowers/flowerDecorationForOffice.jpg"
+			]
+		},
+		{
+			"slug": "flower-decoration-for-hotel",
+			"title": "Flower Decoration for Hotel",
+			"description": "Flower Decorators for Hotels provide luxury floral arrangements for hotel lobbies, restaurants, and guest rooms.",
+			"longDescription": "Flower Decorators for Hotels provide luxury floral arrangements for hotel lobbies, restaurants, and guest rooms. These decorators create sophisticated and welcoming floral displays that enhance guest experience.",
+			"list": [
+				"Design Options : Variety of flower types, different colors, sizes",
+				"Duration : Typically 2-4 hours",
+				"Service Use : Hotel",
+				"Price Range : ₹5,000 onwards"
+			],
+			"images": [
+				"/images/flowers/flowerDecorationForHotel.jpg"
+			]
+		},
+		{
+			"slug": "flower-decoration-for-basket",
+			"title": "Flower Decoration for Basket",
+			"description": "Flower Decorators for Basket specialize in crafting beautiful and artistic flower baskets for a variety of occasions.",
+			"longDescription": "Flower Decorators for Basket specialize in crafting beautiful and artistic flower baskets for a variety of occasions. Whether it's for a gift, home decor, or special events, these arrangements are carefully curated.",
+			"list": [
+				"Design Options : Variety of flower types, different colors, sizes",
+				"Duration : Typically 2-4 hours",
+				"Service Use : Basket",
+				"Price Range : ₹500 onwards"
+			],
+			"images": [
+				"/images/flowers/flowerDecorationForBasket.jpg"
+			]
+		},
+		{
+			"slug": "flower-decoration-for-home",
+			"title": "Flower Decoration for Home",
+			"description": "Flower Decoration for Home service brings the elegance of fresh or artificial floral decor to your living space.",
+			"longDescription": "Flower Decoration for Home service brings the elegance of fresh or artificial floral decor to your living space. Ideal for birthdays, anniversaries, pujas, or intimate gatherings with family and friends.",
+			"list": [
+				"Design Options : Variety of flower types, different colors, sizes",
+				"Duration : Typically 2-4 hours",
+				"Service Use : Home",
+				"Price Range : ₹3,000 onwards"
+			],
+			"images": [
+				"/images/flowers/flowerDecorationForHome.jpg"
+			]
+		},
+		{
+			"slug": "flower-decoration-for-restaurant",
+			"title": "Flower Decoration for Restaurant",
+			"description": "Flower Decorators for Restaurants specialize in creating floral arrangements that enhance the dining experience.",
+			"longDescription": "Flower Decorators for Restaurants specialize in creating floral arrangements that enhance the dining experience. They provide table centerpieces, entrance decor, and seasonal arrangements.",
+			"list": [
+				"Design Options : Variety of flower types, different colors, sizes",
+				"Duration : Typically 2-4 hours",
+				"Service Use : Restaurant",
+				"Price Range : ₹5,000 onwards"
+			],
+			"images": [
+				"/images/flowers/flowerDecorationForRestaurant.jpg"
+			]
+		},
+		{
+			"slug": "flower-decoration-for-baby-shower",
+			"title": "Flower Decoration for Baby Shower",
+			"description": "Welcome the new arrival with our charming and thoughtful flower decorations for baby showers.",
+			"longDescription": "Welcome the new arrival with our charming and thoughtful flower decorations for baby showers. We create soft and soothing arrangements using pastel-colored flowers, perfect for celebrating new beginnings.",
+			"list": [
+				"Theme : Pastel, Gender Reveal, Fun",
+				"Design Options : Variety of flower types, Different colors, Sizes",
+				"Duration : Typically 2-4 hours",
+				"Material Used : High-quality materials used for longevity and visual appeal",
+				"Price Range : ₹7,000 - ₹12,000"
+			],
+			"images": [
+				"/images/flowers/flowerDecorationForBabyShower.jpg"
+			]
+		},
+		{
+			"slug": "decoration-for-wedding",
+			"title": "Decoration for Wedding",
+			"description": "Ultimately, wedding decorations create lasting memories for the couple and their guests.",
+			"longDescription": "Ultimately, wedding decorations create lasting memories for the couple and their guests. A well-decorated venue not only enhances the visual appeal but also evokes emotions and sets the tone for the celebration.",
+			"list": [
+				"Theme : Customized themes and colours available",
+				"Design Options : Fresh and artificial options",
+				"Price Range : ₹20,000 - ₹25,000",
+				"Material : High-quality materials used for longevity and visual appeal",
+				"Rental Duration : Typically 2-4 hours"
+			],
+			"images": [
+				"/images/decoration/decorationForWedding.jpg"
+			]
+		},
+		{
+			"slug": "decoration-for-birthday",
+			"title": "Decoration for Birthday",
+			"description": "Birthday decoration services specialize in creating themed and personalized setups for birthday celebrations.",
+			"longDescription": "Birthday decoration services specialize in creating themed and personalized setups for birthday celebrations. These services include designing and arranging decorations that create a festive and memorable atmosphere.",
+			"list": [
+				"Theme : Customized themes and colours available",
+				"Design Options : Fresh and artificial options",
+				"Price Range : ₹10,000 - ₹15,000",
+				"Material : High-quality materials used for longevity and visual appeal",
+				"Rental Duration : Typically 2-4 hours"
+			],
+			"images": [
+				"/images/decoration/decorationForBirthday.jpg"
+			]
+		},
+		{
+			"slug": "decoration-for-anniversary",
+			"title": "Decoration for Anniversary",
+			"description": "Decoration for Anniversary services transform any space into a romantic and festive venue, ideal for celebrating special milestones.",
+			"longDescription": "Decoration for Anniversary services transform any space into a romantic and festive venue, ideal for celebrating special milestones. From elegant floral arrangements and lighting to personalized touches, we create memorable settings.",
+			"list": [
+				"Theme : Customized themes and colours available",
+				"Design Options : Fresh and artificial options",
+				"Price Range : ₹15,000 - ₹20,000",
+				"Material : High-quality materials used for longevity and visual appeal",
+				"Rental Duration : Typically 2-4 hours"
+			],
+			"images": [
+				"/images/decoration/decorationForAnniversary.jpg"
+			]
+		},
+		{
+			"slug": "decoration-for-events",
+			"title": "Decoration for Events",
+			"description": "Decoration for events encompasses a wide range of services designed to enhance the visual appeal and ambiance of various types of gatherings, from corporate events to private celebrations.",
+			"longDescription": "Decoration for events encompasses a wide range of services designed to enhance the visual appeal and ambiance of various types of gatherings, from corporate events to private celebrations. Our team works closely with clients to bring their vision to life.",
+			"list": [
+				"Theme : Customized themes and colours available",
+				"Design Options : Fresh and artificial options",
+				"Price Range : ₹15,000 - ₹20,000",
+				"Material : High-quality materials used for longevity and visual appeal",
+				"Rental Duration : Typically 2-4 hours"
+			],
+			"images": [
+				"/images/decoration/decorationForEvents.jpg"
+			]
+		},
+		{
+			"slug": "decoration-for-outdoor",
+			"title": "Decoration for Outdoor",
+			"description": "Elevate your outdoor gatherings with specialized decoration services.",
+			"longDescription": "Elevate your outdoor gatherings with specialized decoration services. From intimate backyard gatherings to large events, we bring themes to life with elegant lighting, floral arrangements, and thematic installations.",
+			"list": [
+				"Theme : Customized themes and colours available",
+				"Design Options : Fresh and artificial options",
+				"Price Range : ₹20,000 - ₹25,000",
+				"Type : Outdoor",
+				"Material : High-quality materials used for longevity and visual appeal",
+				"Rental Duration : Typically 2-4 hours"
+			],
+			"images": [
+				"/images/decoration/decorationForOutdoor.jpg"
+			]
+		},
+		{
+			"slug": "decoration-for-party",
+			"title": "Decoration for Party",
+			"description": "Many decoration services provide full-service packages that include setup and breakdown of all decorative elements.",
+			"longDescription": "Many decoration services provide full-service packages that include setup and breakdown of all decorative elements. This convenience allows hosts to relax and enjoy their celebration while professionals handle the details.",
+			"list": [
+				"Theme : Customized themes and colours available",
+				"Design Options : Fresh and artificial options",
+				"Price Range : ₹15,000 - ₹20,000",
+				"Material : High-quality materials used for longevity and visual appeal",
+				"Rental Duration : Typically 2-4 hours"
+			],
+			"images": [
+				"/images/decoration/decorationForParty.jpg"
+			]
+		},
+		{
+			"slug": "decoration-for-festivals",
+			"title": "Decoration for Festivals",
+			"description": "Embrace the festive spirit with our Decoration for Festivals service.",
+			"longDescription": "Embrace the festive spirit with our Decoration for Festivals service. We offer creative and vibrant decoration solutions tailored to your specific festival or celebration, capturing the cultural essence of the occasion.",
+			"list": [
+				"Theme : Customized themes and colours available",
+				"Design Options : Fresh and artificial options",
+				"Price Range : ₹10,000 - ₹15,000",
+				"Material : High-quality materials used for longevity and visual appeal",
+				"Rental Duration : Typically 2-4 hours"
+			],
+			"images": [
+				"/images/decoration/decorationForFestivals.jpg"
+			]
+		},
+		{
+			"slug": "decoration-for-religious-functions",
+			"title": "Decoration for Religious Functions",
+			"description": "Decoration for religious functions involves creating a respectful and appropriate environment for ceremonies and worship.",
+			"longDescription": "Decoration for religious functions involves creating a respectful and appropriate environment for ceremonies and worship. This service includes designing and setting up decorations that honor traditions while adding beauty to the space.",
+			"list": [
+				"Theme : Customized themes and colours available",
+				"Design Options : Fresh and artificial options",
+				"Price Range : ₹20,000 - ₹25,000",
+				"Material : High-quality materials used for longevity and visual appeal",
+				"Rental Duration : Typically 2-4 hours"
+			],
+			"images": [
+				"/images/decoration/decorationForReligiousFunctions.jpg"
+			]
+		}
 	],
-  "gallery": {
-    "groups": [
-      {
-        "name": "Flowers",
-        "images": [
-          {
-            "src": "/images/flowers/flowerDecorationForBirthday.jpg",
-            "alt": "Flower Decoration For Birthday"
-          },
-          {
-            "src": "/images/flowers/flowerDecorationForNameCeremony.jpg",
-            "alt": "Flower Decoration for Name Ceremony"
-          },
-          {
-            "src": "/images/flowers/flowerDecorationForAnniversary.jpg",
-            "alt": "Flower Decoration for Anniversary"
-          },
-          {
-            "src": "/images/flowers/flowerDecorationForEvent.jpg",
-            "alt": "Flower Decoration For Event"
-          },
-          {
-            "src": "/images/flowers/flowerDecorationForWeddingCar.jpg",
-            "alt": "Flower Decoration for Wedding Car"
-          },
-          {
-            "src": "/images/flowers/flowerDecorationForOffice.jpg",
-            "alt": "Flower Decoration for Office"
-          },
-          {
-            "src": "/images/flowers/flowerDecorationForHotel.jpg",
-            "alt": "Flower Decoration for Hotel"
-          },
-          {
-            "src": "/images/flowers/flowerDecorationForBasket.jpg",
-            "alt": "Flower Decoration for Basket"
-          },
-          {
-            "src": "/images/flowers/flowerDecorationForHome.jpg",
-            "alt": "Flower Decoration for Home"
-          },
-          {
-            "src": "/images/flowers/flowerDecorationForRestaurant.jpg",
-            "alt": "Flower Decoration for Restaurant"
-          },
-          {
-            "src": "/images/flowers/flowerDecorationForBabyShower.jpg",
-            "alt": "Flower Decoration for Baby Shower"
-          }
-        ]
-      },
-      {
-        "name": "Decoration",
-        "images": [
-          {
-            "src": "/images/decoration/decorationForWedding.jpg",
-            "alt": "Decoration for Wedding"
-          },
-          {
-            "src": "/images/decoration/decorationForBirthday.jpg",
-            "alt": "Decoration for Birthday"
-          },
-          {
-            "src": "/images/decoration/decorationForAnniversary.jpg",
-            "alt": "Decoration for Anniversary"
-          },
-          {
-            "src": "/images/decoration/decorationForEvents.jpg",
-            "alt": "Decoration for Events"
-          },
-          {
-            "src": "/images/decoration/decorationForOutdoor.jpg",
-            "alt": "Decoration for Outdoor"
-          },
-          {
-            "src": "/images/decoration/decorationForParty.jpg",
-            "alt": "Decoration for Party"
-          },
-          {
-            "src": "/images/decoration/decorationForFestivals.jpg",
-            "alt": "Decoration for Festivals"
-          },
-          {
-            "src": "/images/decoration/decorationForReligiousFunctions.jpg",
-            "alt": "Decoration for Religious Functions"
-          }
+	"gallery": {
+		"groups": [
+			{
+				"name": "Flowers",
+				"images": [
+					{
+						"src": "/images/flowers/flowerDecorationForBirthday.jpg",
+						"alt": "Flower Decoration For Birthday"
+					},
+					{
+						"src": "/images/flowers/flowerDecorationForNameCeremony.jpg",
+						"alt": "Flower Decoration for Name Ceremony"
+					},
+					{
+						"src": "/images/flowers/flowerDecorationForAnniversary.jpg",
+						"alt": "Flower Decoration for Anniversary"
+					},
+					{
+						"src": "/images/flowers/flowerDecorationForEvent.jpg",
+						"alt": "Flower Decoration For Event"
+					},
+					{
+						"src": "/images/flowers/flowerDecorationForWeddingCar.jpg",
+						"alt": "Flower Decoration for Wedding Car"
+					},
+					{
+						"src": "/images/flowers/flowerDecorationForOffice.jpg",
+						"alt": "Flower Decoration for Office"
+					},
+					{
+						"src": "/images/flowers/flowerDecorationForHotel.jpg",
+						"alt": "Flower Decoration for Hotel"
+					},
+					{
+						"src": "/images/flowers/flowerDecorationForBasket.jpg",
+						"alt": "Flower Decoration for Basket"
+					},
+					{
+						"src": "/images/flowers/flowerDecorationForHome.jpg",
+						"alt": "Flower Decoration for Home"
+					},
+					{
+						"src": "/images/flowers/flowerDecorationForRestaurant.jpg",
+						"alt": "Flower Decoration for Restaurant"
+					},
+					{
+						"src": "/images/flowers/flowerDecorationForBabyShower.jpg",
+						"alt": "Flower Decoration for Baby Shower"
+					}
+				]
+			},
+			{
+				"name": "Decoration",
+				"images": [
+					{
+						"src": "/images/decoration/decorationForWedding.jpg",
+						"alt": "Decoration for Wedding"
+					},
+					{
+						"src": "/images/decoration/decorationForBirthday.jpg",
+						"alt": "Decoration for Birthday"
+					},
+					{
+						"src": "/images/decoration/decorationForAnniversary.jpg",
+						"alt": "Decoration for Anniversary"
+					},
+					{
+						"src": "/images/decoration/decorationForEvents.jpg",
+						"alt": "Decoration for Events"
+					},
+					{
+						"src": "/images/decoration/decorationForOutdoor.jpg",
+						"alt": "Decoration for Outdoor"
+					},
+					{
+						"src": "/images/decoration/decorationForParty.jpg",
+						"alt": "Decoration for Party"
+					},
+					{
+						"src": "/images/decoration/decorationForFestivals.jpg",
+						"alt": "Decoration for Festivals"
+					},
+					{
+						"src": "/images/decoration/decorationForReligiousFunctions.jpg",
+						"alt": "Decoration for Religious Functions"
+					}
+				]
 			}
-        ]
-      },
+		]
+	},
 	"testimonials": [
 		{ "name": "Aniket Patil", "text": "Fabulous designing and decorative work — I didn't think this level of decoration was possible in Solapur.", "rating": 5 },
 		{ "name": "Advocate Kiran V. Valsangkar", "text": "Prompt service and perfect time management.", "rating": 5 },
