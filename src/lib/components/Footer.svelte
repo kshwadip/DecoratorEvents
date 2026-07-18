@@ -116,7 +116,7 @@
 				</a>
 			{/if}
 		</div>
-		<span class="made-by">Website by <a href="kshwadip.vercel.app" class="kLogo">K</a></span>
+		<span class="made-by">Website by <a href="https://kshwadip.vercel.app" class="kLogo">K</a></span>
 	</div>
 </footer>
 
