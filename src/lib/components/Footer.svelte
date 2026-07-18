@@ -116,7 +116,7 @@
 				</a>
 			{/if}
 		</div>
-		<span class="made-by">Website by you 🙂</span>
+		<span class="made-by">Website by <a href="kshwadip.vercel.app" class="kLogo">K</a></span>
 	</div>
 </footer>
 
@@ -142,5 +142,12 @@
 		color: var(--color-primary);
 		display: inline-flex;
 		align-items: center;
+	}
+
+    .kLogo {
+        font-family: 'Space Grotesk', sans-serif;
+        font-weight: 800; font-size: 20px;
+        color: #E8A435; text-decoration: none;
+        letter-spacing: -0.02em;
 	}
 </style>
